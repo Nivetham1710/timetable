@@ -110,4 +110,7 @@ Execute the program
 
 ~~~
 # OUPUT
+
+![GitHub Logo](.//logo.png)
+
 ![GitHub Logo](.//timepic.png)
